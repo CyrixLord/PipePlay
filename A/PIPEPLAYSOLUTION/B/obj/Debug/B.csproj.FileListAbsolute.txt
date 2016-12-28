@@ -1,0 +1,5 @@
+C:\dev\c#\PipePlay\A\PIPEPLAYSOLUTION\B\bin\Debug\B.exe.config
+C:\dev\c#\PipePlay\A\PIPEPLAYSOLUTION\B\bin\Debug\B.exe
+C:\dev\c#\PipePlay\A\PIPEPLAYSOLUTION\B\bin\Debug\B.pdb
+C:\dev\c#\PipePlay\A\PIPEPLAYSOLUTION\B\obj\Debug\B.exe
+C:\dev\c#\PipePlay\A\PIPEPLAYSOLUTION\B\obj\Debug\B.pdb

@@ -1,0 +1,6 @@
+C:\dev\c#\PipePlay\A\PIPEPLAYSOLUTION\A\bin\Debug\A.exe.config
+C:\dev\c#\PipePlay\A\PIPEPLAYSOLUTION\A\bin\Debug\A.exe
+C:\dev\c#\PipePlay\A\PIPEPLAYSOLUTION\A\bin\Debug\A.pdb
+C:\dev\c#\PipePlay\A\PIPEPLAYSOLUTION\A\obj\Debug\A.csprojResolveAssemblyReference.cache
+C:\dev\c#\PipePlay\A\PIPEPLAYSOLUTION\A\obj\Debug\A.exe
+C:\dev\c#\PipePlay\A\PIPEPLAYSOLUTION\A\obj\Debug\A.pdb
